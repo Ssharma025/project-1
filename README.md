@@ -8,7 +8,7 @@ This is a public repository by [Ssharma025](https://github.com/Ssharma025). The 
 
 ## Features
 
-- Built primarily using CSS
+- Built primarily using CSS and html 
 - Publicly accessible and open for collaboration
 
 ## Contributing
